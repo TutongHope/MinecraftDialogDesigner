@@ -16,8 +16,8 @@
 | 平台 | 链接 |
 |------|------|
 | B站主页 | [https://space.bilibili.com/630095673](https://space.bilibili.com/630095673) |
-| GitHub 项目主页 | [https://github.com/yht-tutong/MinecraftDialogDesigner](https://github.com/yht-tutong/MinecraftDialogDesigner) |
-| QQ 交流群 | [https://qm.qq.com/q/ZyivYoMzmy](https://qm.qq.com/q/ZyivYoMzmy) |
+| GitHub 项目主页 | [https://github.com/TutongHope/MinecraftDialogDesigner](https://github.com/yht-tutong/MinecraftDialogDesigner) |
+| QQ 交流群 | [点击链接加入群聊【交流群 (●'◡'●)】](https://qm.qq.com/q/gKEz6eGtdS) |
 
 ---
 
