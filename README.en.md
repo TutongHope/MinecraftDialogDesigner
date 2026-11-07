@@ -14,8 +14,8 @@ A GUI-based Minecraft Datapack Dialog JSON editor built with Python and PyQt5. F
 ## Author
 
 - **Bilibili**: [https://space.bilibili.com/630095673](https://space.bilibili.com/630095673)
-- **GitHub**: [https://github.com/yht-tutong/MinecraftDialogDesigner](https://github.com/yht-tutong/MinecraftDialogDesigner)
-- **QQ Group**: [https://qm.qq.com/q/ZyivYoMzmy](https://qm.qq.com/q/ZyivYoMzmy)
+- **GitHub**: [https://github.com/yht-tutong/MinecraftDialogDesigner](https://github.com/TutongHope/MinecraftDialogDesigner)
+- **QQ Group**: [点击链接加入群聊【交流群 (●'◡'●)】](https://qm.qq.com/q/gKEz6eGtdS)
 
 ---
 
